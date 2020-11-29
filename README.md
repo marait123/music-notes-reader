@@ -9,7 +9,9 @@
   - processing
     - detect the 11 types of the characters and how to feature-engineer them.
     
-   
+# papers 
+  - papers that describe general character recognition
+    - https://www.irjet.net/archives/V5/i3/IRJET-V5I3218.pdf
 # music-notes-reader
 this is the repo for the image processing project where we turn images of musical notes
 
