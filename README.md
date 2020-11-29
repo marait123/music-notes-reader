@@ -12,13 +12,16 @@
 # papers 
   - papers that describe general character recognition
     - https://www.irjet.net/archives/V5/i3/IRJET-V5I3218.pdf
+    
+
 # music-notes-reader
 this is the repo for the image processing project where we turn images of musical notes
 
-# musical notes videos
+# videos
 - a video explaining how to read musical notes.
   - https://www.youtube.com/watch?v=Zfky3pQEeqg&ab_channel=OddQuartet
-
+- ocr explanation computerphile
+  - https://www.youtube.com/watch?v=ZNrteLp_SvY&ab_channel=Computerphile
 # courses
 - a course about introduction to computer science
   - https://www.udacity.com/course/introduction-to-computer-vision--ud810
