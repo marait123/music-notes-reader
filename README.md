@@ -1,3 +1,15 @@
+# Meetings (what we agreed upon)
+- Meeting 1
+  - understand and look for papers about optical music recognition.
+  - understand how to do written letters recognition.
+  - Preprocesing 
+    - fix image rotation using ( prespectve and affine transformation) 
+    - detect angle of rotation of the image using hough transform of the lines
+    - remove noise and unobvious lines
+  - processing
+    - detect the 11 types of the characters and how to feature-engineer them.
+    
+   
 # music-notes-reader
 this is the repo for the image processing project where we turn images of musical notes
 
