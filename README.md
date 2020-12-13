@@ -27,7 +27,7 @@ this is the repo for the image processing project where we turn images of musica
   - https://www.udacity.com/course/introduction-to-computer-vision--ud810
 
 # plan
-  -update 13/12/2020
+  - update 13/12/2020
     - we need to do the following     
     
        - we need 2 people to work on extracting features of each symbol.
