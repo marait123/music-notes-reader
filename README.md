@@ -26,3 +26,9 @@ this is the repo for the image processing project where we turn images of musica
 - a course about introduction to computer science
   - https://www.udacity.com/course/introduction-to-computer-vision--ud810
 
+# plan
+  -update 13/12/2020
+    - we need to do the following
+       - we need someone to work on adjusting the image eg.music2.JPG to be similar to music1.JPG Hint(he should look for non-affine transformation)         
+       - we need 2 people to work on extracting features of each symbol.
+       - we need someone to integrate the work of the different stages.
