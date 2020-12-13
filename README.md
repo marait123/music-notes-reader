@@ -28,7 +28,7 @@ this is the repo for the image processing project where we turn images of musica
 
 # plan
   -update 13/12/2020
-    - we need to do the following
-       - we need someone to work on adjusting the image eg.music2.JPG to be similar to music1.JPG Hint(he should look for non-affinetransformation)
+    - we need to do the following     
        - we need 2 people to work on extracting features of each symbol.
        - we need someone to integrate the work of the different stages.
+       - we need someone to work on adjusting the image eg.music2.JPG to be similar to music1.JPG Hint(he should look for non-affine transformation)
