@@ -35,3 +35,4 @@ this is the repo for the image processing project where we turn images of musica
        - we need someone to integrate the work of the different stages.
        
        - we need someone to work on adjusting the image eg.music2.JPG to be similar to music1.JPG Hint(he should look for non-affine transformation)
+       - someone should be responsible for the autograder https://docs.google.com/document/d/1ZxLF2Qz16wyCT-2xIju3n2G-4kNtho7g8rtM1_H7xZQ/edit
