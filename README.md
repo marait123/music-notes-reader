@@ -25,7 +25,10 @@ this is the repo for the image processing project where we turn images of musica
 # courses
 - a course about introduction to computer science
   - https://www.udacity.com/course/introduction-to-computer-vision--ud810
-
+- how to read a note khan academy -> very important
+  - https://www.youtube.com/watch?v=wQHcz7U01M4&list=PLSQl0a2vh4HDFvmGd8eL5PJusJqrNZ0ge&ab_channel=KhanAcademyPartners
+- how to deal with music in python (arabic) -> very important
+  - https://www.youtube.com/watch?v=SQot7w-g7aQ&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB&index=72&ab_channel=HussamHourani
 # plan
   - update 13/12/2020
     - we need to do the following     
