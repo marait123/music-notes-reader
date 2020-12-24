@@ -1,3 +1,9 @@
+# prerequiste setup
+- run the following line in the anaconda command prompt (shell) and make sure that environment.yml is in the same directory
+  - conda env create -f environment.yml
+
+
+
 # Meetings (what we agreed upon)
 - Meeting 1
   - understand and look for papers about optical music recognition.
