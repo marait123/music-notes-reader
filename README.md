@@ -1,5 +1,15 @@
    
 
+
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+![downloads](https://img.shields.io/github/downloads/marait123/music-notes-reader/total)![repo size](https://img.shields.io/github/repo-size/marait123/music-notes-reader)
+
+[![GitHub contributors](https://img.shields.io/github/contributors/marait123/music-notes-reader)](https://github.com/marait123/music-notes-reader/graphs/contributors)
+
+[![GitHub forks](https://img.shields.io/github/forks/marait123/music-notes-reader)](https://github.com/marait123/music-notes-reader/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/marait123/music-notes-reader)](https://github.com/marait123/music-notes-reader/stargazers)
+
+
 ## How to Run
  1. install Conda
  2. Install [conda](https://www.anaconda.com/products/individual)
@@ -46,3 +56,6 @@ this is the repo for the image processing project where we turn images of musica
 - [how to read a note khan academy]( https://www.youtube.com/watch?v=wQHcz7U01M4&list=PLSQl0a2vh4HDFvmGd8eL5PJusJqrNZ0ge&ab_channel=KhanAcademyPartners) -> very important
   
 - [how to deal with music in python (arabic)](https://www.youtube.com/watch?v=SQot7w-g7aQ&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB&index=72&ab_channel=HussamHourani)-> very important
+
+## Dataset
+- [scanned dataset of the project prepared by our team](https://drive.google.com/drive/u/0/folders/1eJctuSXNN3N60AC2Ikmuk8w53-pgjysp)
